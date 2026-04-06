@@ -1,0 +1,1508 @@
+fileFormatVersion: 2
+guid: 08430bca1fbf3b84aab0a0cdb229f917
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3535896525940060434
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_0"
+  - first:
+      213: 6144164509543537817
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_1"
+  - first:
+      213: 5483931098383944909
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_2"
+  - first:
+      213: 3208270559078703459
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_3"
+  - first:
+      213: -7631967397739521378
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_4"
+  - first:
+      213: 967216758434536723
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_5"
+  - first:
+      213: -4519899867147585008
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_6"
+  - first:
+      213: -8108472257176533972
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_7"
+  - first:
+      213: -8709186492619823211
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_8"
+  - first:
+      213: -4307825778782373400
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_9"
+  - first:
+      213: 2237835298111206112
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_10"
+  - first:
+      213: -3487196740341789536
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_11"
+  - first:
+      213: 2029270376877562159
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_12"
+  - first:
+      213: -6052092764680573551
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_13"
+  - first:
+      213: -6866198090052099395
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_14"
+  - first:
+      213: -7699734057371420328
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_15"
+  - first:
+      213: -3059553770055066122
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_16"
+  - first:
+      213: 3401625743740774444
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_17"
+  - first:
+      213: -3446576840378864824
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_18"
+  - first:
+      213: -4969366087534339444
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_19"
+  - first:
+      213: 8039955143539052003
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_20"
+  - first:
+      213: 7613104144812379500
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_21"
+  - first:
+      213: 6081158832513401489
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_22"
+  - first:
+      213: -5814252811529858442
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_23"
+  - first:
+      213: -6086251632112427208
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_24"
+  - first:
+      213: 6620004384993545501
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_25"
+  - first:
+      213: 6173788778972478035
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_26"
+  - first:
+      213: -299271210136233874
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_27"
+  - first:
+      213: 1390281995579512259
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_28"
+  - first:
+      213: 7692466299988091395
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_29"
+  - first:
+      213: -6512645018187458389
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_30"
+  - first:
+      213: -134788814970378328
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_31"
+  - first:
+      213: -8832423072916158285
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_32"
+  - first:
+      213: -6172756128051098612
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_33"
+  - first:
+      213: 7601125374229796266
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_34"
+  - first:
+      213: -2377246514002472914
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_35"
+  - first:
+      213: -2740337503358962201
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_36"
+  - first:
+      213: 6615960588596586719
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_37"
+  - first:
+      213: 6554146615945965236
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_38"
+  - first:
+      213: 2513888011310112368
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_39"
+  - first:
+      213: -6256317293956957883
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_40"
+  - first:
+      213: 7561246683884410883
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_41"
+  - first:
+      213: -4913738728511578549
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_42"
+  - first:
+      213: -1095554415643354713
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_43"
+  - first:
+      213: -2617058047189601524
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_44"
+  - first:
+      213: 474870493368183139
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_45"
+  - first:
+      213: 2643007845328603477
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_46"
+  - first:
+      213: 5262517583963002556
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_47"
+  - first:
+      213: 3218865795405984248
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_48"
+  - first:
+      213: -3357531562437430548
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_49"
+  - first:
+      213: -2873973776164050600
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_50"
+  - first:
+      213: 3106959952694865177
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_51"
+  - first:
+      213: 8645577804513974727
+    second: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_52"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_0"
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 447
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee0ec8f7d8fdeec0800000000000000
+      internalID: -3535896525940060434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_1"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 450
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c97e87115744550800000000000000
+      internalID: 6144164509543537817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_2"
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 447
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc84e36746da1c40800000000000000
+      internalID: 5483931098383944909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_3"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 450
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361ea394311168c20800000000000000
+      internalID: 3208270559078703459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_4"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 477
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9a9f50761ec51690800000000000000
+      internalID: -7631967397739521378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_5"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 456
+        width: 7
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9b4b648e3c6d00800000000000000
+      internalID: 967216758434536723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_6"
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 451
+        width: 58
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a355ea4071641c0800000000000000
+      internalID: -4519899867147585008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_7"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 448
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2402ef417be87f80800000000000000
+      internalID: -8108472257176533972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_8"
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 418
+        width: 48
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597e3c83701c22780800000000000000
+      internalID: -8709186492619823211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_9"
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 358
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9f76d27478734c0800000000000000
+      internalID: -4307825778782373400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_10"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 386
+        width: 34
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e2bfb9d8536e0f10800000000000000
+      internalID: 2237835298111206112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_11"
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 386
+        width: 28
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac07066a0dfa9fc0800000000000000
+      internalID: -3487196740341789536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_12"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 354
+        width: 28
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f29920ff7aa692c10800000000000000
+      internalID: 2029270376877562159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_13"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 395
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19da08522b5a20ca0800000000000000
+      internalID: -6052092764680573551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_14"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 388
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db2aafc373d56b0a0800000000000000
+      internalID: -6866198090052099395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_15"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 388
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85936657bac052590800000000000000
+      internalID: -7699734057371420328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_16"
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 352
+        width: 29
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fd19ac6e084a85d0800000000000000
+      internalID: -3059553770055066122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_17"
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 355
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c282e726790053f20800000000000000
+      internalID: 3401625743740774444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_18"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 381
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b212adf9c4b20d0800000000000000
+      internalID: -3446576840378864824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_19"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 374
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8a94a94fd3490bb0800000000000000
+      internalID: -4969366087534339444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_20"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 367
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ed48b40b98a39f60800000000000000
+      internalID: 8039955143539052003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_21"
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 360
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d889d32ed27a960800000000000000
+      internalID: 7613104144812379500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_22"
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 292
+        width: 11
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 192c0b22dbd946450800000000000000
+      internalID: 6081158832513401489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_23"
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 292
+        width: 11
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67252768fdf9f4fa0800000000000000
+      internalID: -5814252811529858442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_24"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 319
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83f1c4e036a498ba0800000000000000
+      internalID: -6086251632112427208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_25"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 322
+        width: 30
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1d8113f9eafedb50800000000000000
+      internalID: 6620004384993545501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_26"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 290
+        width: 50
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a72f03f24bda550800000000000000
+      internalID: 6173788778972478035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_27"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 296
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6814548b66c8dbf0800000000000000
+      internalID: -299271210136233874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_28"
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 260
+        width: 34
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c55324eb164b4310800000000000000
+      internalID: 1390281995579512259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_29"
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 255
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3022479e75121ca60800000000000000
+      internalID: 7692466299988091395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_30"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 260
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba818b68cdf6e95a0800000000000000
+      internalID: -6512645018187458389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_31"
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 231
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7aef37942212ef0800000000000000
+      internalID: -134788814970378328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_32"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 231
+        width: 32
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b84ed8e20eec6580800000000000000
+      internalID: -8832423072916158285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_33"
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 260
+        width: 34
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c06669107f55aa0800000000000000
+      internalID: -6172756128051098612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_34"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 240
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5dc20614f9c7960800000000000000
+      internalID: 7601125374229796266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_35"
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 233
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20d85504e2520fd0800000000000000
+      internalID: -2377246514002472914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_36"
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 233
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e5bb934f8d58f9d0800000000000000
+      internalID: -2740337503358962201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_37"
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 162
+        width: 96
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8a84b3a1d90db50800000000000000
+      internalID: 6615960588596586719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_38"
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 196
+        width: 27
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bea9413f9105fa50800000000000000
+      internalID: 6554146615945965236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_39"
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 168
+        width: 28
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e904fb3df13e220800000000000000
+      internalID: 2513888011310112368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_40"
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 159
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549ff8b81981d29a0800000000000000
+      internalID: -6256317293956957883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_41"
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 131
+        width: 23
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 308d70c3cc1fee860800000000000000
+      internalID: 7561246683884410883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_42"
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 103
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4edcf719a4eecbb0800000000000000
+      internalID: -4913738728511578549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_43"
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 37
+        width: 59
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a9977f301fcbc0f0800000000000000
+      internalID: -1095554415643354713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_44"
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 9
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03bfa462975eabd0800000000000000
+      internalID: -2617058047189601524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_45"
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 7
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369668f9234179600800000000000000
+      internalID: 474870493368183139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_46"
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 5
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 559c16fc1a9dda420800000000000000
+      internalID: 2643007845328603477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_47"
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 5
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb69c505cd7380940800000000000000
+      internalID: 5262517583963002556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_48"
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 5
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f134daf265bbac20800000000000000
+      internalID: 3218865795405984248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_49"
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 2
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce231ca35d6a761d0800000000000000
+      internalID: -3357531562437430548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_50"
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 6
+        width: 20
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85924f9d3189d18d0800000000000000
+      internalID: -2873973776164050600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_51"
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 7
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91dedb79d932e1b20800000000000000
+      internalID: 3106959952694865177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_52"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 6
+        width: 33
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c99e0cf4334bf770800000000000000
+      internalID: 8645577804513974727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_0": -3535896525940060434
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_1": 6144164509543537817
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_10": 2237835298111206112
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_11": -3487196740341789536
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_12": 2029270376877562159
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_13": -6052092764680573551
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_14": -6866198090052099395
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_15": -7699734057371420328
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_16": -3059553770055066122
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_17": 3401625743740774444
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_18": -3446576840378864824
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_19": -4969366087534339444
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_2": 5483931098383944909
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_20": 8039955143539052003
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_21": 7613104144812379500
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_22": 6081158832513401489
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_23": -5814252811529858442
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_24": -6086251632112427208
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_25": 6620004384993545501
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_26": 6173788778972478035
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_27": -299271210136233874
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_28": 1390281995579512259
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_29": 7692466299988091395
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_3": 3208270559078703459
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_30": -6512645018187458389
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_31": -134788814970378328
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_32": -8832423072916158285
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_33": -6172756128051098612
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_34": 7601125374229796266
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_35": -2377246514002472914
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_36": -2740337503358962201
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_37": 6615960588596586719
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_38": 6554146615945965236
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_39": 2513888011310112368
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_4": -7631967397739521378
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_40": -6256317293956957883
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_41": 7561246683884410883
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_42": -4913738728511578549
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_43": -1095554415643354713
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_44": -2617058047189601524
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_45": 474870493368183139
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_46": 2643007845328603477
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_47": 5262517583963002556
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_48": 3218865795405984248
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_49": -3357531562437430548
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_5": 967216758434536723
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_50": -2873973776164050600
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_51": 3106959952694865177
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_52": 8645577804513974727
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_6": -4519899867147585008
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_7": -8108472257176533972
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_8": -8709186492619823211
+      "TX Props \u2014 \u043A\u043E\u043F\u0438\u044F_9": -4307825778782373400
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
