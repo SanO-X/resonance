@@ -1,46 +1,206 @@
-# 🎮 Резонанс (Resonance) — 2D Action/RPG Adventure
+# 🎮 Resonance
 
-## 📝 Описание проекта
+**Resonance** is a 2D Top-Down Action/RPG Adventure developed in **Unity** using **C#** and **Universal Render Pipeline (URP)**.
 
-**«Резонанс»** — это одиночная двухмерная игра с видом сверху (Top-Down) в мрачной фэнтезийной пиксельной стилистике, разработанная на движке **Unity** с использованием языка **C#**.
+The main feature of the project is a **dynamic World State System** that changes the visual atmosphere of the game world based on the player's behavior.
 
-Главная особенность и предмет исследования проекта — **система динамической адаптации игрового мира (World State System)** на основе анализа поведения игрока. Окружение здесь не просто статичный фон, а активная система, реагирующая на темп и стиль прохождения.
-
-### 🎭 Три состояния игрового мира:
-1. **Гармония (Harmony)** — активируется при сбалансированном стиле игры (чередование движения и аккуратных атак). Мир выглядит ярко и мягко.
-2. **Агрессия (Aggression)** — возникает при высокой частоте атак и быстром уничтожении врагов. С помощью постобработки (*Global Volume / Color Adjustments*) мир окрашивается в тревожные красные тона, темп игры ускоряется, а противники становятся сильнее.
-3. **Пустота (Void)** — наступает при длительном бездействии игрока или пассивном поведении. Мир теряет насыщенность, становится блеклым, серым и угасающим.
+The world in Resonance is not just a static background. It reacts to the player's pace, aggression and inactivity, creating a more responsive gameplay experience.
 
 ---
 
-## 🛠️ Технологический стек и архитектура
+## 📝 Project Description
 
-* **Движок:** Unity 2022+ (Universal Render Pipeline - URP)
-* **Язык программирования:** C# (ООП, компонентно-ориентированная архитектура)
-* **Инструменты:** Unity Tilemap (для проектирования локаций), Global Volume (для плавного цветового LERP-перехода между состояниями мира).
+Resonance is a single-player 2D game with a top-down perspective and dark fantasy pixel-art style.
 
-### Ключевые компоненты (Скрипты):
-* `WorldManager.cs` — центральный контроллер (реализован как *Singleton*), отвечающий за сбор метрик игрока (атаки, таймер бездействия), переключение enum состояний и плавную интерполяцию графических фильтров.
-* `PlayerMovement.cs` — управление физическим перемещением персонажа через `Rigidbody2D.linearVelocity` в `FixedUpdate` с нормализацией векторов движения и обновлением параметров `Animator`.
-* `PlayerCombat.cs` / `PlayerHealth.cs` — реализация ближнего боя (расчет зоны поражения через `Physics2D.OverlapCircleAll`) и автономная логика здоровья с выводом на UI-Slider.
-* `EnemyAI.cs` — искусственный интеллект противников (Ведьмы и Летучие мыши), работающий на основе радиусов преследования (`chaseRadius`) и атаки (`attackRadius`).
+The project was created as a diploma / portfolio prototype focused on gameplay systems, combat mechanics and dynamic world adaptation.
+
+The core idea is to show how player actions can directly affect the state of the game world. Depending on how the player behaves, the world smoothly changes its color palette and atmosphere through post-processing effects.
 
 ---
 
-## 📂 Структура репозитория
+## 🎭 World State System
 
-Проект имеет модульную структуру игровых сцен (`Assets/Scenes/`):
-* `0` — Начальная (стартовая) карта для ознакомления с управлением.
-* `1`, `2`, `3` — Боевые локации.
-* `4` — Финальная карта с Боссом.
+The game world has three main states:
 
-*Примечание: В рамках демонстрационного вертикального среза вся ключевая боевая логика, ИИ и система адаптации полностью сведены, отлажены и продемонстрированы на основной боевой сцене.*
+### 🟢 Harmony
+
+Harmony is activated when the player uses a balanced playstyle: movement, careful attacks and normal combat rhythm.
+
+In this state, the world looks softer, brighter and more stable.
+
+### 🔴 Aggression
+
+Aggression appears when the player attacks frequently and quickly defeats enemies.
+
+Using **Global Volume** and **Color Adjustments**, the world gradually shifts into anxious red tones, making the atmosphere more intense and dangerous.
+
+### ⚫ Void
+
+Void appears when the player stays inactive for too long or plays too passively.
+
+In this state, the world loses saturation, becomes pale, grey and visually lifeless.
 
 ---
 
-## 🚀 Как запустить проект
+## 🛠 Tech Stack
 
-1. Склонируйте репозиторий: `git clone https://github.com/SanO-X/resonance.git`
-2. Откройте проект через **Unity Hub** (версия с поддержкой URP).
-3. Перейдите в папку `Assets/Scenes/` и запустите сцену `0` (или сцену демонстрационного уровня).
-4. Управление: `WASD / Стрелки` — движение, `ЛКМ` — атака мечом.
+* **Unity 2022+**
+* **C#**
+* **Universal Render Pipeline**
+* **Unity Tilemap**
+* **Global Volume**
+* **Color Adjustments**
+* **Rigidbody2D**
+* **Physics2D.OverlapCircleAll**
+* **Animator Controller**
+* **UI Slider**
+
+---
+
+## ⚙️ Implemented Mechanics
+
+* Top-down player movement
+* Melee combat system
+* Attack area detection
+* Player health system
+* Enemy health system
+* Enemy damage and death logic
+* Basic enemy AI
+* Enemy chase behavior
+* Enemy attack radius
+* Attack cooldown system
+* Death screen
+* Scene restart after player death
+* Dynamic world state switching
+* Smooth visual transitions between world states
+
+---
+
+## 🧠 Project Architecture
+
+### `WorldManager.cs`
+
+The central controller of the World State System.
+
+It is implemented as a Singleton and is responsible for tracking player behavior, attack activity and inactivity time. Based on these values, it switches the world between Harmony, Aggression and Void states.
+
+### `PlayerMovement.cs`
+
+Handles player movement using `Rigidbody2D`.
+
+Movement logic is processed in `FixedUpdate`, while animation parameters are updated based on the player's movement direction and speed.
+
+### `PlayerCombat.cs`
+
+Controls the melee combat system.
+
+The script uses `Physics2D.OverlapCircleAll` to detect enemies inside the attack radius and apply damage to them.
+
+### `PlayerHealth.cs`
+
+Controls the player's health, damage receiving and death logic.
+
+When the player's health reaches zero, the death screen is activated.
+
+### `Enemy.cs`
+
+Stores enemy health and handles damage receiving.
+
+When enemy health reaches zero, the enemy object is destroyed.
+
+### `EnemyAI.cs`
+
+Controls enemy behavior.
+
+Enemies can detect the player inside a chase radius, move toward the player and attack when the player enters the attack radius. The attack system also uses cooldown logic.
+
+### `HealthBar.cs`
+
+Updates the player's health bar through the UI system.
+
+---
+
+## 📂 Repository Structure
+
+The project contains several game scenes inside:
+
+```text
+Assets/Scenes/
+```
+
+Scene structure:
+
+```text
+0 - Starting scene
+1 - Combat location
+2 - Combat location
+3 - Main combat demo scene
+4 - Final boss scene
+```
+
+The current version is a **vertical slice prototype**.
+
+The main gameplay systems, combat logic, enemy AI and World State System are implemented and demonstrated in the main combat scene.
+
+---
+
+## 🚀 How to Run
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/SanO-X/resonance.git
+```
+
+2. Open the project through **Unity Hub**.
+
+3. Use a Unity version with **URP support**.
+
+4. Open the scenes folder:
+
+```text
+Assets/Scenes/
+```
+
+5. Start scene `0` or the main combat demo scene.
+
+---
+
+## 🎮 Controls
+
+* **WASD / Arrow Keys** — movement
+* **Left Mouse Button** — sword attack
+
+---
+
+## 📌 Project Status
+
+The project is currently a working diploma / portfolio prototype.
+
+Implemented core systems:
+
+* player movement;
+* combat;
+* enemy AI;
+* health system;
+* death screen;
+* scene restart;
+* dynamic world state adaptation.
+
+Further development may include:
+
+* additional enemy types;
+* improved boss mechanics;
+* more world reactions;
+* UI polishing;
+* sound and music transitions;
+* additional levels.
+
+---
+
+## 👤 Author
+
+**Sanham Murshudov**
+Junior C# / Unity Developer
+
+GitHub: [SanO-X](https://github.com/SanO-X)
